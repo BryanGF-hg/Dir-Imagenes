@@ -1,2 +1,5 @@
-# Imagenes-Grem
+# GREMs-Images
+
 Imagenes de la mascota Gremlin de Gigi Murin, Hololive EN Vtuber alterados para usarlos libremente según lo que se quiera
+Images of the Hololive EN Vtuber Gigi Murin's Mascot, Gremlin changed up so they can be used freely whenever we want
+
